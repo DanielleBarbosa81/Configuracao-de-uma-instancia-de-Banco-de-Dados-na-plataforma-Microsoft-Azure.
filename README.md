@@ -1,0 +1,1 @@
+# Configuracao-de-uma-instancia-de-Banco-de-Dados-na-plataforma-Microsoft-Azure.
